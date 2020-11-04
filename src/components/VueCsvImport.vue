@@ -32,7 +32,7 @@
                         <slot name="thead">
                             <thead>
                             <tr>
-                                <th>Field</th>
+                                <th>Fieldes</th>
                                 <th>CSV Column</th>
                             </tr>
                             </thead>
